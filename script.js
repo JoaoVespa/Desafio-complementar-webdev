@@ -2,6 +2,8 @@ let nome = prompt('Digite seu nome');
 let sobrenome = prompt('Digite seu sobrenome');
 console.log('O usuário ' + nome + ' ' + sobrenome + ' logou no site');
 alert('Olá ' + nome + ' ' + sobrenome + '!' );
+alert('Abrir o console através do botão F12')
+
 
 
 let anoAtual = 2025;
